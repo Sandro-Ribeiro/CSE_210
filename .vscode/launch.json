@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (Console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/week_01/Exercise_01/bin/Debug/net8.0/Exercise_01.dll",
+            "cwd": "${workspaceFolder}/week_01/Exercise_01",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        }
+    ]
+}
+
+
